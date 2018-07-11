@@ -1,5 +1,5 @@
 # Kaggle-Competitions
-### 1. Zillow Prize: Zillowâ€™s Home Value Prediction (Zestimate)
+### 1. Zillow Prize: Zillow's Home Value Prediction (Zestimate)
 Can you improve the algorithm that changed the world of real estate? 
 <br/>
 
