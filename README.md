@@ -9,8 +9,7 @@ Can you improve the algorithm that changed the world of real estate?
 - Public LB 
     - Score : 0.0658163
     - Rank  : 3380 / 3779
-<br/>
-
+    
 - Private LB 
     - Score : 0.0760755
     - Rank  : 2688 / 3779
