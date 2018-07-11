@@ -4,6 +4,7 @@ Can you improve the algorithm that changed the world of real estate?
 <br/>
 
 **\- *Result***
+
 ![zillow](image/zillow_score.png)
 
 - Public LB 
