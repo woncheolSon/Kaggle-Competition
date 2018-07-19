@@ -31,3 +31,10 @@ Predict demand for an online classified ad
 
 \*source: [avito-demand-prediction](https://www.kaggle.com/c/avito-demand-prediction)
 
+---
+
+### 4. Walmart Recruiting: Trip Type Classification
+Use market basket analysis to classify shopping trips
+
+\*source: [walmart recruiting](https://www.kaggle.com/c/walmart-recruiting-trip-type-classification)
+
