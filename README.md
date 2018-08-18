@@ -19,21 +19,7 @@ Can you improve the algorithm that changed the world of real estate?
 
 ---
 
-### 2. House Prices: Advanced Regression Techniques
-Predict sales prices and practice feature engineering, RFs, and gradient boosting
-
-\*source : [house-prices-advanced-regression-techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-
----
-
-### 3. Avito Demand Prediction Challenge
-Predict demand for an online classified ad
-
-\*source: [avito-demand-prediction](https://www.kaggle.com/c/avito-demand-prediction)
-
----
-
-### 4. Walmart Recruiting: Trip Type Classification
+### 2. Walmart Recruiting: Trip Type Classification
 Use market basket analysis to classify shopping trips
 
 \*source: [walmart recruiting](https://www.kaggle.com/c/walmart-recruiting-trip-type-classification)
